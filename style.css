@@ -95,6 +95,7 @@
     background: #f44b37;
     padding: 40px 16px;
     border-radius: 10px;
+    box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.5);
   }
 
   .dots{
@@ -111,5 +112,6 @@
     font-weight: 700;
     color:#f44b37;
     cursor: pointer;
+    box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.5);
   }
 
